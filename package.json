@@ -1,7 +1,7 @@
 {
-  "name": "js-solution",
-  "version": "1.0.0",
-  "description": "",
+  "name": "scrapthing",
+  "version": "0.0.1",
+  "description": "PDF Scraper is a Node.js script that downloads PDF files from search engine results. It uses the Puppeteer library to automate web browsing and scrape PDF links from Google or Yandex search results.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
